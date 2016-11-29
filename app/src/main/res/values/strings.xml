@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Paqueteria</string>
+    <string name="gt.kemik.error.connection">Por favor verifique su conexión a Internet</string>
+    <string name="gt.kemik.error.userpassword">Parece que el usuario y/o contraseña son incorrectos</string>
+    <string name="gt.kemik.error.genericerrorconnection">Parece que tuvimos un problema, por favor contactanos ERROR: CONNECTIONGEN</string>
+    <string name="gt.kemik.paqueteria.menu.btnEntregar"> ENTREGAR</string>
+    <string name="gt.kemik.paqueteria.menu.btnRecibir">RECIBIR</string>
+    <string name="gt.kemik.paqueteria.menu.btnIntenar">ENTREGA FALLIDA</string>
+    <string name="gt.kemik.paqueteria.menu.btnDevolver">DEVOLVER</string>
+    <string name="gt.kemik.succes">OPERACIÓN REALIZADA CON ÉXITO</string>
+    <string name="gt.kemik.error.genericpost">Ocurrió un error al procesar tu solicitud, ERORR: POSTGEN</string>
+    <string name="gt.kemik.action.logout">Logout</string>
+    <string name="gt.kemik.paqueteria.userinput.yes">COMENTAR</string>
+    <string name="gt.kemik.paqueteria.userinput.no">NADA</string>
+</resources>
